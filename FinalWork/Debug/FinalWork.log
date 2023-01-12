@@ -1,0 +1,9 @@
+﻿  MenuManager.cpp
+C:\Users\Matan\Desktop\FinalWork\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\FinalWork\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\FinalWork\FinalWork\MenuManager.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\FinalWork\FinalWork\MenuManager.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\FinalWork\FinalWork\MenuManager.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\FinalWork\FinalWork\MenuManager.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\FinalWork\FinalWork\MenuManager.cpp(557,6): warning C4101: 'input': unreferenced local variable
+  FinalWork.vcxproj -> C:\Users\Matan\Desktop\FinalWork\Debug\FinalWork.exe

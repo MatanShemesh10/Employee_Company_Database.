@@ -1,0 +1,28 @@
+﻿  Address.cpp
+  Designer.cpp
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Designer.cpp(64,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  main.cpp
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\main.cpp(385,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MenuManager.cpp
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\MenuManager.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\MenuManager.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\MenuManager.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\MenuManager.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\MenuManager.cpp(569,6): warning C4101: 'input': unreferenced local variable
+  Person.cpp
+  productManager.cpp
+  Programmer.cpp
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Programmer.cpp(37,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  TeamLeader.cpp
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\TeamLeader.cpp(5,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\TeamLeader.cpp(6,1): warning C5043: 'TeamLeader::create': exception specification does not match previous declaration
+C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\FinalWork\TeamLeader.h(32): message : see declaration of 'TeamLeader::create'
+  Generating Code...
+  FinalWork.vcxproj -> C:\Users\Matan\Desktop\Study\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Debug\FinalWork.exe

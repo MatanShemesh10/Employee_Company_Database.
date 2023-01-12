@@ -1,0 +1,81 @@
+
+-----------------------------------------
+Object #1: Name: Ariel
+Id: 894126
+Age: 24
+Weight: 75.8541
+Seniority (in years): 3
+Design Program: PhotoShop
+Address: City: Holon	Street: Barzel	House number: 30
+
+Task number #1: design site
+Task number #2: designers meeting
+
+
+-----------------------------------------
+Object #2: Name: Matan
+Id: 258974
+Age: 30
+Weight: 69.64
+Seniority (in years): 6
+Design Program: painterPlus
+Address: City: kfar saba	Street: Azar	House number: 116
+
+Task number #1: practice painting
+Task number #2: new logo create
+
+
+-----------------------------------------
+Object #3: Name: Moti
+Id: 154786
+Age: 46
+Weight: 82
+Experience (in years): 5
+Program language: c++
+
+
+-----------------------------------------
+Object #4: Name: Sharon
+Id: 236974
+Age: 91
+Weight: 72
+Experience (in years): 3
+Program language: java
+
+
+-----------------------------------------
+Object #5: the name of the team: kings
+The information of the team leader person: 
+Name: Eden
+Id: 125745
+Age: 31
+Weight: 72
+Experience (in years): 2
+Program language: java
+Salary: 20000
+The inforation of leader's employees: 
+Number of employees: 0
+
+
+-----------------------------------------
+Object #6: the name of the team: beta
+The information of the team leader person: 
+Name: Roei
+Id: 321564
+Age: 23
+Weight: 76
+Experience (in years): 6
+Program language: c
+Salary: 30000
+The inforation of leader's employees: 
+Number of employees: 0
+
+
+-----------------------------------------
+Object #7: Name: matan
+Id: 2222
+Age: 25
+Weight: 72
+Experience (in years): 3
+Program language: java
+

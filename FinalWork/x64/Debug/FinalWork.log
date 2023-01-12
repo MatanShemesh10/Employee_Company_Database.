@@ -1,0 +1,24 @@
+﻿  Address.cpp
+  Designer.cpp
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Designer.cpp(64,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  main.cpp
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\main.cpp(385,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MenuManager.cpp
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Designer.h(25,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\MenuManager.cpp(558,6): warning C4101: 'input': unreferenced local variable
+  Person.cpp
+  productManager.cpp
+  Programmer.cpp
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Programmer.cpp(37,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  TeamLeader.cpp
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\Programmer.h(16,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\TeamLeader.cpp(5,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\TeamLeader.cpp(6,1): warning C5043: 'TeamLeader::create': exception specification does not match previous declaration
+C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\FinalWork\TeamLeader.h(28): message : see declaration of 'TeamLeader::create'
+  Generating Code...
+  FinalWork.vcxproj -> C:\Users\Matan\שנה ב\semester A\תכנות מונחה עצמים וC++\FinalProject\x64\Debug\FinalWork.exe
