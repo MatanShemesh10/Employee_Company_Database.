@@ -1,0 +1,6 @@
+Ariel,894126,24,75.8541,3,PhotoShop,Holon,Barzel,30,design site,designers meeting
+Matan,258974,30,69.64,6,painterPlus,kfar saba,Azar,116,practice painting,new logo create
+Moti,154786,46,82,5,c++
+Sharon,236974,91,72,3,java
+Eden,125745,31,72,2,java,kings,20000
+Roei,321564,23,76,6,c,beta,30000
